@@ -43,3 +43,12 @@ Vá até a pasta do projeto e execute esse comando:
 ```bash
 ./run.sh
 ```
+
+## 👥 Colaboradores
+
+Este projeto foi desenvolvido em conjunto por:
+
+* **Felipe Bresciani** - *Desenvolvedor*
+* **Pedro Henrique Junqueira** *Desenvolvedor*
+* **Rafael Eliezer** - *Desenvolvedor*
+
