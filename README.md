@@ -33,5 +33,13 @@ Clone este repositório: https://github.com/Rafael-Fernandes17/Batalha-Naval-Pri
 
 Navegue até a pasta do projeto e execute: python3 batalhaNaval.py
 
-<font color= "red">OBS:</font> Se o seu jogo aparecer um erro como: <font color= "yellow">"import emoji ModuleNotFoundError: No module named 'emoji'"</font>,
-vá até a pasta do projeto e execute esse comando: <font color= "yellow">"./run.sh" </font>.
+<font color= "red">OBS:</font> Se o seu jogo aparecer um erro como: 
+
+```bash 
+import emoji ModuleNotFoundError: No module named 'emoji'
+```
+
+Vá até a pasta do projeto e execute esse comando: 
+```bash
+./run.sh
+```
