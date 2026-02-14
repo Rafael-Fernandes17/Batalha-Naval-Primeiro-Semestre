@@ -2,7 +2,7 @@
 # Script de execução para Linux e macOS
 # Garante que o ambiente virtual seja criado e as dependências instaladas.
 
-PROJECT_NAME="batalhaVerificada.py"
+PROJECT_NAME="batalhaNaval.py"
 VENV_PATH="venv"
 REQUIREMENTS="requirements.txt"
 
